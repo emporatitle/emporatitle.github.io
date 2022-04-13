@@ -1,0 +1,5 @@
+main:
+- title: "Introduction"
+  url: /introduction/
+- title: "Posts"
+  url: /posts/
