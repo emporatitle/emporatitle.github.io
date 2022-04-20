@@ -4,3 +4,17 @@ Tim Overly:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tim@emporatitle.com"
+
+Patrick Veith:
+  name        : "Patrick Veith"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:patrick@emporatitle.com"
+
+Nicol Drozdowicz:
+  name        : "Nicol Drozdowicz"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nicol@emporatitle.com"
