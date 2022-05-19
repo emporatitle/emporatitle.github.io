@@ -63,7 +63,7 @@ The goals of our platform are:
 
 # Candidate FAQ
 
-1. Can I work remotely?: Yes! We are a remote first company. We have co-working spaces in Columbus Ohio and Denver Colorado if you want to come in and work in person.
+1. Can I work remotely?: Yes! We are a remote first company. We have co-working spaces in Columbus, Ohio and Denver, Colorado if you want to come in and work in person.
 
 # Who are your biggest competitors?
 
